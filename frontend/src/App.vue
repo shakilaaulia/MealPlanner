@@ -313,7 +313,7 @@ const generateMenu = async () => {
 
 /* HEADER */
 .app-header {
-  background: linear-gradient(90deg, #2d5016 0%, #3d6b1f 100%);
+  background: linear-gradient(90deg, #133223 0%, #2d5016 100%);
   color: white;
   padding: 20px 0;
   box-shadow: 0 4px 12px rgba(45, 80, 22, 0.15);
@@ -336,7 +336,7 @@ const generateMenu = async () => {
 }
 
 .header-decoration {
-  font-size: 30px;
+  font-size: 40px;
 }
 
 /* MAIN CONTAINER */
@@ -359,7 +359,7 @@ const generateMenu = async () => {
   padding: 30px;
 }
 
-.input-box h2 {
+h2 {
   margin: 0 0 20px 0;
   font-size: 20px;
   font-weight: bold;
